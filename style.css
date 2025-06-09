@@ -6,13 +6,13 @@ box-sizing: border-box;
 
 body {
 font-family: 'Segoe UI', sans-serif;
-background-color: #fffdf5;
+background-color: #69e6a1;
 color: #333;
 }
 
 header {
-background-color: #2e8b57;
-color: white;
+background-color: #011d0d;
+color: rgb(253, 249, 249);
 text-align: center;
 padding: 30px 20px;
 }
@@ -29,8 +29,8 @@ padding: 40px 20px;
 }
 
 .etapa {
-background-color: #f7f7f7;
-border-left: 5px solid #2e8b57;
+background-color: #ffffff;
+border-left: 5px solid #000000;
 padding: 20px;
 margin-bottom: 25px;
 box-shadow: 0 0 8px rgba(0,0,0,0.1);
@@ -48,7 +48,7 @@ margin-bottom: 10px;
 
 footer {
 background-color: #2e8b57;
-color: white;
+color: rgb(166, 221, 158);
 text-align: center;
 padding: 20px 0;
 font-size: 0.9em;
